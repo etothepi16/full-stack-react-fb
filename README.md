@@ -1,1 +1,1 @@
-# full-stack-react-fb
+# mern-fb
